@@ -1,1 +1,3 @@
-# flutter_bloc_http_app
+# BloC Flutter app
+
+## BloC State management
